@@ -1,0 +1,39 @@
+h1,h2,h3,h4,h5,h6{
+    text-transform: uppercase;
+    color: #444;
+    font-family: rale;
+    letter-spacing: 1px;
+    
+    }
+    h2{
+    
+        font-size: 25px;
+        color: #333;
+    }
+    h3{
+        font-family:"lato,", sans-serif;
+        font-size: 20px;
+        line-height: 1.5;
+        padding-top: 20px;
+        font-weight: normal;
+        color: #777;
+    }
+    
+    .img1{
+    
+        text-align: center;
+        border-radius: 24px;
+        
+        }
+    
+        .sub1{
+            text-align: center;
+        }
+    
+        .sub2{
+            text-align: center;
+        }
+    
+        .animated{
+            text-align: center;
+        }
